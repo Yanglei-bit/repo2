@@ -1,0 +1,14 @@
+public class HelloWorld{
+	public void static main (String [] args){
+		System.out.println("abc")
+	System.out.println("--abc");
+	System.out.println(\t);
+	System.out.println("100");
+	System.out.println("-100");
+	System.out.println("A");
+	System.out.println("b");
+	System.out.println("true");
+	System.out.println("abc");
+	}
+
+}
